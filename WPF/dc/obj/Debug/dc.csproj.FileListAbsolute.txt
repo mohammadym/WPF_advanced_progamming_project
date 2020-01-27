@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\dc\dc\bin\Debug\dc.exe.config
+C:\Users\Asus\Desktop\dc\dc\bin\Debug\dc.exe
+C:\Users\Asus\Desktop\dc\dc\bin\Debug\dc.pdb
+C:\Users\Asus\Desktop\dc\dc\obj\Debug\dc.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\dc\dc\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\dc\dc\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\dc\dc\obj\Debug\dc_MarkupCompile.cache
+C:\Users\Asus\Desktop\dc\dc\obj\Debug\dc_MarkupCompile.lref
+C:\Users\Asus\Desktop\dc\dc\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\dc\dc\obj\Debug\dc.g.resources
+C:\Users\Asus\Desktop\dc\dc\obj\Debug\dc.Properties.Resources.resources
+C:\Users\Asus\Desktop\dc\dc\obj\Debug\dc.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\dc\dc\obj\Debug\dc.exe
+C:\Users\Asus\Desktop\dc\dc\obj\Debug\dc.pdb

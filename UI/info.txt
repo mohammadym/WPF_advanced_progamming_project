@@ -1,0 +1,36 @@
+
+
+
+ali
+mosavi
+ahvaz
+15
+ifyai
+sfuyas\as
+asfkuay
+a;yf
+x+34y=26
+x=ghj+56hte
+2x+2y=4
+
+
+
+reza
+gholami
+shiraz
+20
+2x+2t=4
+2x+3t=5
+
+
+mohammad
+yarmoghadam
+tehran
+25
+2x+3t=5
+2x+5t=7
+
+
+
+query moadele
+ischecked false bara checkbox
